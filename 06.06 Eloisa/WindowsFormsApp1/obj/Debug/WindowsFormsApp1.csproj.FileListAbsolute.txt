@@ -1,0 +1,11 @@
+C:\DevC\06.06 Eloisa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\DevC\06.06 Eloisa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\DevC\06.06 Eloisa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\DevC\06.06 Eloisa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\DevC\06.06 Eloisa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\DevC\06.06 Eloisa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\DevC\06.06 Eloisa\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\DevC\06.06 Eloisa\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\DevC\06.06 Eloisa\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\DevC\06.06 Eloisa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\DevC\06.06 Eloisa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
